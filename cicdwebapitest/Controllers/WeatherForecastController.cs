@@ -8,7 +8,7 @@ namespace cicdwebapitest.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing1", "Bracing", "Chilly", "Cool1", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing2", "Bracing", "Chilly", "Cool1", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
